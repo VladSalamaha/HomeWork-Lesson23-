@@ -88,3 +88,9 @@
     color: black;
     opacity: 0.7;
 }
+.widthbutton{
+    width: 30%;
+}
+.list{
+    list-style-type: none;
+}
