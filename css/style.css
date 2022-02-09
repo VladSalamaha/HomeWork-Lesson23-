@@ -10,3 +10,27 @@
     color: gray;
     transition: 0.3s;
 }
+.block1main{
+ position: relative;
+ height: 100%;
+}
+.block2main{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+.imgrama{
+    width:20%;
+    margin: 0px auto;
+}
+.imgmainbike{
+    width: 100%;
+    height:100%;
+}
+.imgmain2{
+    width: 100%;
+    padding: 0px;
+}
+.w100{
+    width:100%;
+}
