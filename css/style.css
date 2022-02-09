@@ -10,6 +10,9 @@
     color: gray;
     transition: 0.3s;
 }
+.mainimg{
+    width: 100%;
+}
 .block1main{
  position: relative;
  height: 100%;
@@ -20,7 +23,7 @@
     left: 45%;
 }
 .imgrama{
-    width:20%;
+    width:10%;
     margin: 0px auto;
 }
 .imgmainbike{
@@ -33,4 +36,19 @@
 }
 .w100{
     width:100%;
+}
+.positonreal{
+ position: relative;
+}
+.posabsol{
+    position: absolute;
+    top:50%;
+    left:45%;
+}
+.fixedimg{
+    width: 100%;
+    height: 100%;
+}
+.h100{
+    height: 100%;
 }
